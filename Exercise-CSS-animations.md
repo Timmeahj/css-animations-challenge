@@ -20,6 +20,6 @@ The goal of this exercise is to make you comfortable with CSS animations so you 
 - Hover manipulation on a button, a shape and an image. Be creative.
 - An element where you let your creativity go crazy! Show me what you can do!
 
-You will learn how to do all that stuff in this [video](https://www.youtube.com/watch?v=zHUpx90NerM) which is the same as the one linked on top.
+You will learn how to do all that stuff in this [video](https://www.youtube.com/watch?v=zHUpx90NerM) which is the same as the one linked on top. You might wonder what kind of structure you should use for your onepager and that decision is totally up to you! Do you want to make it look like a real website? Good! Do you want to focus on the shapes and just place them all in a blank page? Also good! Do make sure that the shapes and texts are distinguisheable.
 
 Get creative and good luck!
