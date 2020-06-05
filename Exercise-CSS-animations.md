@@ -17,6 +17,7 @@ The goal of this exercise is to make you comfortable with CSS animations so you 
 - A shape that repeatedly changes color.
 - A title that moves once, then stops where you want it to be.
 - A shape that moves and grows / shrinks in size repeatedly.
+- A rainbow element, make it go through all the colors of the rainbow.
 - Hover manipulation on a button, a shape and an image. Be creative.
 - An element where you let your creativity go crazy! Show me what you can do!
 
