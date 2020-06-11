@@ -1,8 +1,8 @@
-# Title: Briefing template
+# Title: CSS animations
 
 - Repository: `css-animations-challenge`
 - Type of Challenge: `Learning`
-- Duration: `1-2 days`
+- Duration: `2-3 days`
 - Deadline: `dd/mm/yy H:i AM/PM`
 - Deployment strategy :
 	- Github page
