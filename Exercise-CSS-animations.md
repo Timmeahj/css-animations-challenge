@@ -1,4 +1,4 @@
-For Alexandre: I believe I leave the deadline as is since we don't know when this assignment will be handed to the learners. I also need to provide an html and css file containing a template of the fake company that I referred to in the mission.
+For Alexandre: I believe I leave the deadline as is since we don't know when this assignment will be handed to the learners. I also need to provide an html and css file containing a template of the fake company that I referred to in the mission, I'll start making those when this challenge gets approved.
 
 # Title: CSS animations
 
