@@ -1,4 +1,4 @@
-To Do: Deadline, Steps
+For Alexandre: I believe I leave the deadline as is since we don't know when this assignment will be handed to the learners. I also need to provide an html and css file containing a template of the fake company that I referred to in the mission.
 
 # Title: CSS animations
 
@@ -43,10 +43,13 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 
 ### Steps
 1. Create the repository
-2. Study the request (What & Why ?)
-3. Identify technical challenges (How ?)
-4. UX Prototype
-...
+2. Take a look at some [CSS animations documentation](https://www.w3schools.com/css/css3_animations.asp)
+3. Add an intro animation to the big title on the front page
+4. Add hover effects to all <a> and <button> tags
+5. Add all the must-have features
+6. Push everything to your GitHub repository
+7. Publish your page by making an environment
+8. Share the link with your fellow colleagues to show them your flashy animations!
 
 ## Evaluation criterias
 1. Everything looks as if it was intended to be like that
