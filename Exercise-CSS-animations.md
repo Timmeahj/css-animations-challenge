@@ -1,3 +1,5 @@
+To Do: Deadline, Steps
+
 # Title: CSS animations
 
 - Repository: `css-animations-challenge`
@@ -32,8 +34,8 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 
 ### Nice-to-have features
 
-- A loading bar pops up every time I change a page
-- A description that appears when I hover over an image
+- A loading bar pops up every time the user changes a page
+- A description that appears when the user hovers over an image
 
 ## Deliverables
 1. Publish your source code on the GitHub repository.
@@ -54,6 +56,6 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 
 ## Have fun!
 
-Now unleash your creativity! I believe in all of you :heart:
+Now unleash your creativity! Don't be afraid to build up some inspiration before you start. I believe in all of you :heart:
 
 ![You've got this!](https://media.giphy.com/media/13N8crGK0Mi34c/giphy.gif)
