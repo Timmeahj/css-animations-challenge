@@ -46,7 +46,7 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 1. Create the repository
 2. Take a look at some [CSS animations documentation](https://www.w3schools.com/css/css3_animations.asp)
 3. Add an intro animation to the big title on the front page
-4. Add hover effects to all <a> and <button> tags
+4. Add hover effects to all "<a>" and "<button>" tags
 5. Add all the must-have features
 6. Push everything to your GitHub repository
 7. Publish your page by making an environment
@@ -56,7 +56,7 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 1. Everything looks as if it was intended to be like that
 2. There are no boring buttons / links anymore, just changing the color on hover is fine.
 3. Separation of concerns: I did not add any styling in the HTML file(s).
-4. Everything works on different browsers! Take care, sometimes a browser handles an animation differently!
+4. Everything works on different browsers! Watch out, sometimes a browser handles an animation differently!
 
 ## Have fun!
 
