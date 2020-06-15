@@ -46,7 +46,7 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 1. Create the repository
 2. Take a look at some [CSS animations documentation](https://www.w3schools.com/css/css3_animations.asp)
 3. Add an intro animation to the big title on the front page
-4. Add hover effects to all "<a>" and "<button>" tags
+4. Add hover effects to all `<a>` and `<button>` tags
 5. Add all the must-have features
 6. Push everything to your GitHub repository
 7. Publish your page by making an environment
