@@ -1,5 +1,3 @@
-For Alexandre: I believe I leave the deadline as is since we don't know when this assignment will be handed to the learners. I also need to provide an html and css file containing a template of the fake company that I referred to in the mission, I'll start making those when this challenge gets approved.
-
 # Title: CSS animations
 
 - Repository: `css-animations-challenge`
@@ -16,7 +14,7 @@ Sometimes when we navigate the web, we come across websites that have flashy ani
 
 After this challenge you'll be able to:
 
-- make repeating css animations, such as a loading animation.
+- create animations using CSS
 - add the final touch to pimp up your buttons and links with hover effects.
 - create a website that looks much more alive.
 
@@ -53,10 +51,14 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 8. Share the link with your fellow colleagues to show them your flashy animations!
 
 ## Evaluation criterias
-1. Everything looks as if it was intended to be like that
-2. There are no boring buttons / links anymore, just changing the color on hover is fine.
-3. Separation of concerns: I did not add any styling in the HTML file(s).
-4. Everything works on different browsers! Watch out, sometimes a browser handles an animation differently!
+- [ ] Everything looks as if it was intended to be like that
+- [ ] All interactive inputs (links and buttons) have at minima a hover animation.
+- [ ] Separation of concerns: I did not add any styling in the HTML file(s).
+- [ ] Everything works on different browsers! Watch out, sometimes a browser handles an animation differently!
+- [ ] The HTML is valid
+- [ ] The css is valid
+- [ ] Progressive enhancement
+- [ ] Run a lighthouse test
 
 ## Have fun!
 
