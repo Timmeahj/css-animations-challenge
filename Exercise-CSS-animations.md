@@ -18,7 +18,7 @@ After this challenge you'll be able to:
 - add the final touch to pimp up your buttons and links with hover effects.
 - create a website that looks much more alive.
 
-![Make something like this!](https://media.giphy.com/media/aPT8Xbvryq2ixk1BLs/giphy.gif)
+![Make something like this!](https://i0.wp.com/codemyui.com/wp-content/uploads/2015/10/pure-css-shining-button-hover-animation.gif?fit=880%2C440&ssl=1)
 
 ## The Mission
 We are ChildsPlay, a company that organises summer camps for children. We would like to make our website more attractive to children because it looks really dull and static at this time. So, we need you to take our website to the next level and add some playful animations in there for the kids to appreciate. We do believe in your capabilities as a developer so besides of some features that we really need you are free to add as much life as you want!
