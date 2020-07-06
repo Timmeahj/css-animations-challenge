@@ -2,7 +2,7 @@
 
 - Repository: `css-animations-challenge`
 - Type of Challenge: `Learning`
-- Duration: `2-3 days`
+- Duration: `1 day`
 - Deadline: `dd/mm/yy H:i AM/PM`
 - Deployment strategy :
 	- Github page
