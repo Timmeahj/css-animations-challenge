@@ -54,15 +54,19 @@ We are ChildsPlay, a company that organises summer camps for children. We would 
 7. Publish your page by making an environment
 8. Share the link with your fellow colleagues to show them your flashy animations!
 
-## Evaluation criterias
-- [ ] Everything looks as if it was intended to be like that
-- [ ] All interactive inputs (links and buttons) have at minima a hover animation.
-- [ ] Separation of concerns: I did not add any styling in the HTML file(s).
-- [ ] Everything works on different browsers! Watch out, sometimes a browser handles an animation differently!
-- [ ] The HTML is valid
-- [ ] The css is valid
-- [ ] Progressive enhancement
-- [ ] Run a lighthouse test
+## Evaluation criteria
+
+| Criteria       | Indicator                                                                             | Yes/No |
+|----------------|---------------------------------------------------------------------------------------|--------|
+| 1. Is complete | The student has realized all must-have features.                                      |        |
+|                | The animations work on every browser.                                                 |        |
+|                | There is a published GitHub page available.                                           |        |
+|                | All interactive inputs (links and buttons) have at minima a hover animation.          |        |
+|                | Everything looks as if it was intended to be like that.                               |        |
+| 2. Is valid    | The HTML and CSS are valid.                                                           |        |
+|                | The lighthouse test scores 90 at least on each category.                              |        |
+| 3. Is creative | Multiple different animations were used, not just the same animation on each element. |        |
+|                | The animations manipulate a variety of CSS properties, not just one.                  |        |
 
 ## Have fun!
 
